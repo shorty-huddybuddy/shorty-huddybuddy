@@ -28,7 +28,8 @@ I'm a 3rd-year undergraduate at **IIIT Allahabad**, passionate about **software 
 `Python`, `C++`, `JavaScript`, `HTML/CSS`, `SQL`, `Bash`
 
 **Libraries & Frameworks:**  
-`OpenCV`, `PyTorch`, `TensorFlow`, `Scikit-learn`, `YOLO`, `SAM (Segment Anything)`, `OpenGL`
+`React.js`, `Next.js`, `OpenCV`, `PyTorch`, `TensorFlow`, `Scikit-learn`, `YOLO`, `SAM (Segment Anything)`, `OpenGL`
+
 
 **Tools & Platforms:**  
 `Git & GitHub`, `Linux`, `Jupyter`, `VS Code`, `Conda`, `VirtualBox`
