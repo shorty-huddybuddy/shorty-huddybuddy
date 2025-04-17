@@ -35,7 +35,7 @@ I'm a 3rd-year undergraduate at **IIIT Allahabad**, passionate about **software 
 `Git & GitHub`, `Linux`, `Jupyter`, `VS Code`, `Conda`, `VirtualBox`
 
 **Cybersecurity & Networking:**  
-`Snort`, `Shodan`, `Wireshark`, `Sandboxing`, `System Call Monitoring`
+`Wireshark`, `Sandboxing`, `CTF`
 <!--
 ---
 
