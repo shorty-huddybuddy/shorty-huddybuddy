@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hey there! I'm Dinesh Pradhan
 
-I'm a 3rd-year undergraduate at **IIIT Allahabad**, passionate about **software engineering**, **machine learning**, **cybersecurity**, and solving real-world problems through code. I love exploring how intelligent systems work, building efficient solutions, and diving deep into the fundamentals of algorithms and system design.
+I'm a 4th-year undergraduate at **IIIT Allahabad**, passionate about **software engineering**, **machine learning**, **cybersecurity**, and solving real-world problems through code. I love exploring how intelligent systems work, building efficient solutions, and diving deep into the fundamentals of algorithms and system design.
 
 ---
 
